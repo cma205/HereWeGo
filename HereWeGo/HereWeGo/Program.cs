@@ -7,6 +7,7 @@ namespace HereWeGo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Coronavirus is a bummer!");
         }
     }
 }
